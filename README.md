@@ -1,4 +1,4 @@
-# Amethyst
+<img src="assets/amethyst.png" alt="Welcome to Amethyst"/>
 Amethyst is a extension/plugin for the InfiltrationEngine. Currently features an Attributes Editor with extra support for custom hacks and a Network Map visualizer.
 
 Amethyst is licensed under Apache 2.0.
