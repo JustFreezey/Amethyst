@@ -1,4 +1,8 @@
 <img src="assets/amethyst.png" alt="Welcome to Amethyst"/>
+
+> [!NOTE]
+> If you are having any problems with installation, general use or anything else, please contact @JustFreezey on Discord or create an Issue in this repo.
+
 Amethyst is a extension/plugin for the InfiltrationEngine. Currently features an Attributes Editor with extra support for custom hacks and a Network Map visualizer.
 
 Amethyst is licensed under Apache 2.0.
@@ -10,3 +14,7 @@ Some things such as Custom Hacks will recieve special support, such as extra vis
 
 ## Network Map
 Toggles on/off the network map. This maps out your mission's network in the workspace by creating lines to represent links between nodes, alongside showing information on the nodes itself.
+
+## Installation
+Navigate through Releases and download the desired version (.rbxmx). Using your file browser, open the Local Plugins folder (From Roblox Studio: Plugins > Tools > Plugins Folder). Then, copy or move the downloaded file into the plguins folder, then restart studio.
+Open studio again. You should now see a "Launch Amethyst" button. 
